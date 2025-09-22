@@ -49,16 +49,16 @@ splorators-creation/
 ├─ README.md
 ├─ config.js
 ├─ build.js
-├─ layers/               # Aquí estarán tus capas de arte (png/jpg)
+├─ layers/              # Your art layers (png/jpg) will be here
 │   ├─ Backgrounds/
 │   ├─ Body/
 │   ├─ Wings/
 │   └─ Head/
 ├─ output/
-│   ├─ images/           # NFTs generados
-│   └─ metadata/         # JSON de cada NFT
+│   ├─ images/           # NFTs 
+│   └─ metadata/         # JSON of each NFT
 └─ docs/
-    └─ notes.md          # Notas sobre cómo se creó la colección
+    └─ notes.md          # Notes on how the collection was created
 ```
 
 **.gitignore**
